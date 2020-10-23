@@ -18,7 +18,7 @@ spec:
       - env:
         - name: PORT
           value: "9000"
-        image: aloisreitbauer/hello-server:v0.1.1
+        image: aloisreitbauer/hello-server:v0.1.2
         imagePullPolicy: Always
         name: server
         ports:
