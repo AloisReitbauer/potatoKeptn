@@ -1,2 +1,4 @@
 helloservice:
   enabled: false
+helloservice-generated:
+  enabled: false
